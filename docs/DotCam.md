@@ -27,7 +27,7 @@ Its development was driven by the goal of understanding and solving the technica
 <div align="center">
 
 ###  DotCam App  
-<img src="img/dotcam_main_steps.png" alt="DotCam Android App" width="1000"> 
+<img src="img/dotcam_main_steps.png" alt="DotCam Android App" width="700"> 
 
 </div>
 
@@ -108,7 +108,7 @@ Use this section to configure:
 ## Settings
 <div align="center">
   
-<img src="img/dotcam_settings.png" alt="DotCam Android App" width="1000"> 
+<img src="img/dotcam_settings.png" alt="DotCam Android App" width="700"> 
 
 </div>
 

@@ -64,10 +64,10 @@ Before setting up DotCam, ensure the following requirements are met.
 <div align="center">
 
 ###  Android App  
-<img src="img/intro_dotcam.png" alt="DotCam Android App" width="700"> 
+<img src="img/dotcam_intro.png" alt="DotCam Android App" width="700"> 
 
 ### Windows Client
-<img src="img/intro_dotcamclient.png" alt="DotCamClient Windows App" width="700"> 
+<img src="img/dotcamclient_intro.png" alt="DotCamClient Windows App" width="700"> 
 
 </div>
 

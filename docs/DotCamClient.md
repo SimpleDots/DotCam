@@ -32,7 +32,7 @@ Detailed information about the available camera output types is provided in a se
 <div align="center">
 
 ###  DotCamClient App  
-<img src="img/dotcamclient_main_steps.png" alt="DotCam Android App" width="1000"> 
+<img src="img/dotcamclient_main_steps.png" alt="DotCam Android App" width="700"> 
 
 </div>
 
@@ -111,7 +111,7 @@ In most cases, the default settings should work without requiring any changes.
 <div align="center">
 
 ###  Camera Settings  
-<img src="img/dotcamclient_settings.gif" alt="DotCam Android App" width="1000"> 
+<img src="img/dotcamclient_settings.gif" alt="DotCam Android App" width="700"> 
 
 </div>
 
@@ -149,7 +149,7 @@ This image may be used when no active camera image is currently being rendered, 
 
 <div align="center">
 
-<img src="img/dotcamclient_selection.png" alt="DotCam Android App" width="1000"> 
+<img src="img/dotcamclient_selection.png" alt="DotCam Android App" width="700"> 
 
 </div>
 

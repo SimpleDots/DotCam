@@ -9,7 +9,7 @@ Turn your Android device into a webcam for your Windows PC with **DotCam** and *
 
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blue?style=flat-square)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech-.NET%20MAUI%20%7C%20C%2B%2B-6e40c9?style=flat-square)](#)
-[![GitHub release](https://img.shields.io/github/v/release/SimpleDots/DotCam?style=flat-square)](https://github.com/SimpleDots/DotCam/releases)
+[![GitHub release](https://img.shields.io/github/v/release/SimpleDots/DotCam?include_prereleases&style=flat-square)](https://github.com/SimpleDots/DotCam/releases)
 
 </div>
 
